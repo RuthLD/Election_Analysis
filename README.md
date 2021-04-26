@@ -1,5 +1,5 @@
 # Election_Analysis
-Learning to use Python by analyzing election data.
+🧮 Learning to use Python by analyzing election data.
 
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent congressional election.
