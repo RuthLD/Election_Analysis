@@ -1,6 +1,5 @@
 # Election_Analysis
-Learning to use Python by analyzing election data. 
-Project #3 of Data Analysis Bootcamp
+Learning to use Python by analyzing election data.
 
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent congressional election.
@@ -14,7 +13,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 * Data Source: [election_results](https://github.com/RuthLD/Election_Analysis/blob/main/Resources/election_results.csv)
 * Software: Python 3.7.6, Visual Studio Code, 1.53.2
 
-## Summary
+## Analysis
 The analysis of the election showed that:
 * There were 369,711 total votes cast in the election.
 * The candidates were:
@@ -28,13 +27,13 @@ The analysis of the election showed that:
 * The winner of the election was:
   * Diana DeGette, who recieved 73.8% of the vote and 272,892 total votes.
 
-## Challenge Overview
+## Additional analysis
 The challenge asked for additional analysis related to the county voter turnout. 
 1. The voter turnout for each county.
 1. The percentage of votes from each county out of the total count.
 1. The county with the highest turnout.
 
-## Challenge Results Summary
+## Results Summary
 * The total number of votes cast in the congressional election is:
   * 369,711 votes
    * Here is an image of the code used to get the total votes. ![Total_vote_code](https://github.com/RuthLD/Election_Analysis/blob/main/Resources/Total_vote_code.png)
